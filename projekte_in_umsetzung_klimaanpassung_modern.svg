@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="white"/>
+
+  <!-- outer modern circular frame -->
+  <circle cx="128" cy="128" r="112" fill="none" stroke="#176B4D" stroke-width="7"/>
+
+  <!-- sun -->
+  <path d="M82 69 A30 30 0 0 1 112 99" fill="none" stroke="#F4AA3A" stroke-width="5" stroke-linecap="round"/>
+  <g stroke="#F4AA3A" stroke-width="4" stroke-linecap="round">
+    <path d="M82 43v-8"/><path d="M53 57l-6-6"/><path d="M45 83h-8"/>
+    <path d="M105 50l6-7"/>
+  </g>
+
+  <!-- rain -->
+  <g fill="none" stroke="#5B8490" stroke-width="4" stroke-linejoin="round">
+    <path d="M158 48 C158 48 149 60 149 66a9 9 0 0 0 18 0c0-6-9-18-9-18z"/>
+    <path d="M183 73 C183 73 176 83 176 88a7 7 0 0 0 14 0c0-5-7-15-7-15z"/>
+  </g>
+
+  <!-- soft green background -->
+  <ellipse cx="126" cy="137" rx="43" ry="38" fill="#DCE8D9"/>
+
+  <!-- leaf/tree outline -->
+  <path d="M126 171V101
+           M126 133L112 119
+           M126 143L142 126"
+        fill="none" stroke="#4D9849" stroke-width="5" stroke-linecap="round"/>
+  <path d="M126 101
+           C100 119 101 151 126 165
+           C151 151 152 119 126 101Z"
+        fill="none" stroke="#4D9849" stroke-width="5"/>
+
+  <!-- ground -->
+  <path d="M58 177 Q95 168 137 176 Q157 179 174 176"
+        fill="none" stroke="#176B4D" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- paving / intervention -->
+  <path d="M73 190h69M88 202h67M106 214h45"
+        stroke="#5B8490" stroke-width="3" stroke-linecap="round"/>
+  <path d="M108 187l-12 28M143 187l-13 27"
+        stroke="#5B8490" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- shovel -->
+  <path d="M176 109l-14 16 19 19 15-16z"
+        fill="none" stroke="#176B4D" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M181 112l14-20" fill="none" stroke="#176B4D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M194 92l7-9" fill="none" stroke="#176B4D" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- implementation / progress check -->
+  <circle cx="194" cy="194" r="28" fill="#4D9849"/>
+  <path d="M181 194l9 9 18-20" fill="none" stroke="white" stroke-width="6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
