@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Regentonne</title>
+  <desc>Modernes, vereinfachtes Symbol für eine Regentonne mit Fallrohr und Regenwasser.</desc>
+
+  <!-- Hauswand -->
+  <path fill="#D5D8DA" d="M25 39 H37 V218 H25 Z"/>
+
+  <!-- Fallrohr -->
+  <path fill="#5F666C" d="M52 39 H68 V78 H61 V91
+    C61 95 64 98 69 100 L87 108
+    C94 111 98 117 98 125 V143 H84 V128
+    C84 124 82 121 78 119 L61 112
+    C52 108 48 101 48 93 V39 Z"/>
+  <path fill="#5F666C" d="M45 74 H72 V81 H45 Z"/>
+
+  <!-- Regentonne -->
+  <ellipse fill="#5F9278" cx="139" cy="111" rx="43" ry="9"/>
+  <path fill="#719D84" d="M96 111
+    C96 111 98 118 98 124
+    L101 192
+    C101 204 115 211 139 211
+    C163 211 177 204 177 192
+    L181 124
+    C181 118 182 111 182 111
+    C174 118 160 121 139 121
+    C118 121 104 118 96 111 Z"/>
+
+  <!-- Fassringe -->
+  <path fill="#4F8068" d="M99 145 C119 151 159 151 179 145 L179 153
+    C158 159 119 159 100 153 Z"/>
+  <path fill="#4F8068" d="M100 178 C120 184 158 184 178 178 L178 186
+    C158 192 120 192 101 186 Z"/>
+
+  <!-- Wasser -->
+  <path fill="#168BD1" d="M139 65 C139 65 128 79 128 86
+    A11 11 0 0 0 150 86 C150 79 139 65 139 65 Z"/>
+
+  <!-- Hahn -->
+  <path fill="#555D63" d="M170 174 H184 V181 H178 V188 H171 V181 H165 V177 H170 Z"/>
+  <path fill="#555D63" d="M178 181 H185 V194 H178 Z"/>
+
+  <!-- Pflanze -->
+  <path fill="#69B52F" d="M182 211 C185 193 198 182 213 181
+    C213 197 201 211 184 216 Z"/>
+  <path fill="#69B52F" d="M181 216 C171 204 161 202 153 208
+    C159 218 170 222 181 220 Z"/>
+  <path d="M181 217 C181 202 185 191 193 184" fill="none"
+    stroke="#4D9B32" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Bodenlinie -->
+  <path d="M62 222 H218" fill="none" stroke="#69B52F" stroke-width="5" stroke-linecap="round"/>
+</svg>
