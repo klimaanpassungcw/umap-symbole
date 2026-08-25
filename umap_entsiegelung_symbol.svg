@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Entsiegelung</title>
+  <desc>Vereinfachtes Symbol für Entsiegelung: Pflasterfläche, Erde, Pflanze und versickerndes Regenwasser.</desc>
+
+  <!-- Versiegelte Fläche -->
+  <path d="M18 76 L112 58 L138 82 L104 116 L62 122 L18 108 Z" fill="#9AA0A6"/>
+  <path d="M18 108 L62 122 L104 116 L104 136 L62 142 L18 126 Z" fill="#7F858B"/>
+  <path d="M62 122 L104 116 L138 82 L138 101 L104 136 L62 142 Z" fill="#8B9197"/>
+
+  <!-- Riss / Übergang -->
+  <path d="M104 116 L119 128 L110 140 L96 130 Z" fill="#7F858B"/>
+  <path d="M119 128 L132 118 L142 129 L128 142 Z" fill="#7F858B"/>
+
+  <!-- Erde -->
+  <path d="M94 139
+           C112 131 129 137 145 132
+           C162 127 177 136 192 132
+           C211 127 226 139 240 136
+           L240 211 L94 211 Z" fill="#9A6A43"/>
+
+  <!-- Pflanze -->
+  <path d="M179 139 C178 117 181 94 193 75" fill="none" stroke="#3E8F3E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M190 92 C171 91 163 79 166 67 C181 68 190 76 190 92 Z" fill="#4CAF50"/>
+  <path d="M185 108 C201 105 211 95 210 82 C196 84 187 92 185 108 Z" fill="#43A047"/>
+  <path d="M177 132 C160 127 151 116 154 104 C168 107 177 116 177 132 Z" fill="#66BB6A"/>
+
+  <!-- Wasser / Versickerung -->
+  <path d="M126 153 C126 153 116 167 116 174 A10 10 0 0 0 136 174 C136 167 126 153 126 153 Z" fill="#2196F3"/>
+  <path d="M153 158 C153 158 144 171 144 177 A9 9 0 0 0 162 177 C162 171 153 158 153 158 Z" fill="#2196F3"/>
+
+  <path d="M126 184 L126 204" stroke="#2196F3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M120 198 L126 206 L132 198" fill="none" stroke="#2196F3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M153 187 L153 207" stroke="#2196F3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M147 201 L153 209 L159 201" fill="none" stroke="#2196F3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Kleine Kies-/Pflasterstücke -->
+  <path d="M106 150 L119 144 L128 151 L120 160 L108 158 Z" fill="#8B8F94"/>
+  <path d="M92 163 L103 157 L111 164 L103 173 L93 171 Z" fill="#8B8F94"/>
+</svg>
