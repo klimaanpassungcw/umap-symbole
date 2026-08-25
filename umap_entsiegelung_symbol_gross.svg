@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Entsiegelung</title>
+  <desc>Einfaches Kartensymbol für Entsiegelung mit Pflaster, Erde, Pflanze und versickerndem Regenwasser.</desc>
+
+  <!-- Pflaster -->
+  <path fill="#969A9E" d="M18 112 L54 90 L91 97 L75 127 L27 139 Z"/>
+  <path fill="#969A9E" d="M96 96 L130 102 L119 137 L78 129 Z"/>
+  <path fill="#969A9E" d="M18 146 L72 136 L83 164 L27 174 Z"/>
+  <path fill="#969A9E" d="M87 140 L120 145 L111 176 L76 168 Z"/>
+
+  <!-- Erde -->
+  <path fill="#75491F" d="M118 115
+    C139 108 154 114 169 109
+    C188 103 212 111 238 119
+    L236 178
+    C211 185 185 180 165 181
+    C146 182 132 177 113 181
+    L113 143 Z"/>
+
+  <!-- Pflanze -->
+  <path fill="#35A936" d="M157 128 C157 105 159 82 168 60
+    C174 46 184 34 198 24
+    C200 42 196 58 186 69
+    C179 77 171 84 166 91
+    L166 128 Z"/>
+  <path fill="#35A936" d="M160 91 C145 88 136 77 136 63
+    C151 63 161 71 165 84 Z"/>
+  <path fill="#35A936" d="M166 128 L166 73" stroke="#24912B" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Wassertropfen -->
+  <path fill="#168BD1" d="M157 158
+    C157 158 145 174 145 183
+    A12 12 0 0 0 169 183
+    C169 174 157 158 157 158 Z"/>
+
+  <!-- Versickerungspfeil -->
+  <path fill="#168BD1" d="M151 194 H163 V211 H173 L157 228 L141 211 H151 Z"/>
+</svg>
